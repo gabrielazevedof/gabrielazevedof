@@ -55,7 +55,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" style="heigth:100px; width:100px"/>
 
-</div style="display:flex; justify-content:center; gap:8px">
+</div style="display:flex; justify-content:center; gap:28px">
 
 ## Contacts:
 
