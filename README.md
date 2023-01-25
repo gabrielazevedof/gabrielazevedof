@@ -7,7 +7,7 @@
 - 📫 How to reach me: gabriel.azevedolf@gmail.com
 - 😄 Pronouns: Him/His
 
-## Tools and Technologies
+## Tools and Technologies:
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />          
@@ -43,7 +43,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
 
-## I am learning
+## I am learning:
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" />
