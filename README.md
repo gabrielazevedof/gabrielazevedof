@@ -11,9 +11,8 @@
 
 
 
-            <i class="devicon-git-plain"></i>
-                   
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" heigth: 100px/>
+          
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />          
 
