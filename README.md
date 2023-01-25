@@ -44,7 +44,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="heigth:100px; width:100px"/>
 
 
-</div style="display:flex; justify-content:center; gap:28px">
+</div style="display:flex; justify-content:center; align-items:center">
           
 ## I am learning:
 
