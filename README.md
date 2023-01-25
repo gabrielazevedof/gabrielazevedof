@@ -1,5 +1,5 @@
-# Olá, me chamo Gabriel Azevedo!
-## Bem vindo ao meu perfil GitHub 👋 
+# Hello, my name is Gabriel Azevedo!
+## Welcome to my GitHub profile!👋 
 
 
 - 🔭 I’m currently studying at Driven Education and Universidade Estadual da Paraíba
