@@ -11,7 +11,7 @@
 
 <div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="heigth:10px; width:10px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="heigth:60px; width:60px"/>
           
 
 <img src="https://raw.githubusercontent.com/tissyane/tissyane/main/GitHub-LightIcon.png" style="heigth:100px; width:100px"/>                    
